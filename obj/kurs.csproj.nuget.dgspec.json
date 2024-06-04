@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj": {}
+    "C:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj": {
+    "C:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj",
+        "projectUniqueName": "C:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj",
         "projectName": "kurs",
-        "projectPath": "c:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj",
+        "projectPath": "C:\\Users\\MAXIM\\Desktop\\kurs\\kurs.csproj",
         "packagesPath": "C:\\Users\\MAXIM\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MAXIM\\Desktop\\kurs\\obj\\",
+        "outputPath": "C:\\Users\\MAXIM\\Desktop\\kurs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAXIM\\AppData\\Roaming\\NuGet\\NuGet.Config"
